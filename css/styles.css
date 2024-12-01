@@ -1,44 +1,44 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f9;
+    background-color: #fff8e1; /* 浅黄色背景 */
 }
 
 h1, h2 {
     margin-bottom: 20px;
-    color: #333333;
+    color: #333333; /* 深灰色文本 */
 }
 
 p, ul {
     margin-bottom: 15px;
-    color: #555555;
+    color: #555555; /* 中灰色文本 */
 }
 
 .navbar {
     margin-bottom: 20px;
-    background-color: #2c3e50;
+    background-color: #f39c12; /* 黄色导航栏 */
 }
 
 .navbar .nav-link {
-    color: #ecf0f1;
+    color: #ffffff; /* 白色链接 */
 }
 
 header {
-    background-color: #3498db;
-    color: #ffffff;
+    background-color: #f1c40f; /* 亮黄色 */
+    color: #ffffff; /* 白色文本 */
 }
 
 footer {
-    background-color: #2c3e50;
-    color: #ecf0f1;
+    background-color: #f39c12; /* 黄色页脚 */
+    color: #ffffff; /* 白色文本 */
 }
 
 .btn-primary {
-    background-color: #3498db;
-    border-color: #3498db;
+    background-color: #f39c12; /* 黄色按钮 */
+    border-color: #f39c12;
 }
 
 .btn-primary:hover {
-    background-color: #2980b9;
-    border-color: #2980b9;
-} 
+    background-color: #e67e22; /* 按钮悬停效果 */
+    border-color: #e67e22;
+}
