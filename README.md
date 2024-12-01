@@ -65,7 +65,7 @@ Project Zoom supports multiple languages and time zones, making it ideal for:
 For more information, please contact us:
 
 - 📧 Email: info@projectzoom.com
-- 🌐 Website: [www.projectzoom.com](https://www.projectzoom.com)
+- 🌐 Website: [https://pz688.github.io/](https://pz688.github.io)
 - 📱 Phone: +1 (555) 123-4567
 
 ## 📄 License
